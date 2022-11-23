@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "compromise": "^14.7.1",
+    "compromise-speech": "^0.1.0"
+  }
+}
