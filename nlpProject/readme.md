@@ -5,4 +5,4 @@ It takes a random syllable from the original dataset and combines them into one 
 total gibberish which is why I made a second version.  This verson takes three random full words from the original dataset and combines them into
 one fictional company, some of which seem like they could actually exist.  I am still working on a visualization, forgive me Sabine!
 
-if you run index.js, both programs will run and place their outputs in the files generate1.txt and generate2.txt
+When you run index.js, both programs will run and place their outputs in the directory, 'data', as text files: generated.txt and generated2.txt.
