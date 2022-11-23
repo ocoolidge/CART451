@@ -1,4 +1,4 @@
-NLP excercise
+NLP exercise
 
 I made two programs.  The first takes a dataset of company names and generates fictional company names.  
 It takes a random syllable from the original dataset and combines them into one nonsense string a few syllables long.  Most of these end up being
