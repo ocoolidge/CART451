@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Stonks </title>
+  <!-- add some jquery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <div id="navbar">
+    <!--<input type="text" id="articleSearch" value="msft" />-->
+    <!--<input class = "search" type="button" value="Random Search" id="getRes"/>-->
+    <!--<input class = "PointerTypes" type = "button" value="Opposite" id = "ant"/>
+    <input class = "PointerTypes" type = "button" id = 'Hyper'  value="Specific"/>
+    <input class = "PointerTypes" type = "button" id = 'Hypo'  value= "Abstract"/>
+    <input class = "PointerTypes" type = "button" id = 'entail'  value= "Entailing"/>
+    <input class = "PointerTypes" type = "button" id = 'sim' value= "Similar"/>
+    <input class = "PointerTypes" type = "button" id = 'Mero' value= " Parts Of"/>-->
+    <!--<a href="#home">Home</a>
+    <a href="#news">News</a>
+    <a href="#contact">Contact</a>-->
+  </div>
+  <div id = "parentContainer">
+    <!--<div class = "searchCrit">
+      <p>Find an article related to a phrase:</p>
+      <input type="text" id="articleSearch2" value="type in a phrase ... " />
+      <input type="button" value="Get Results!" id="getRes2" />
+    </div>-->
+    
+    <div class = "resCrit" id = "resultsContainer">
+      <h2 id = "articleTitle"></h2>
+      <p id = "articleContainer"></p>
+      <h3 id = "articleSourceAndDate"></h3>
+      <img id="articleImage"></img>
+    </div>
+    <div class = "resCrit" id = "resultsContainer2">
+      <h2 id = "articleTitle2"></h2>
+      <p id = "articleContainer2"></p>
+      <h3 id = "articleSourceAndDate2"></h3>
+      <img id="articleImage2"></img>
+    </div>
+    <div class = "lower">
+      <h2 id = "sentiChartTitle"></h3>
+      <canvas id="sentiCanvas"></canvas>
+      <canvas id="canvas"></canvas>
+    </div>
+  </div>
+</body>
+<script src="js/main.js"></script>
+</html>
