@@ -1,0 +1,1306 @@
+{
+	"status": "ok",
+	"totalResults": 610,
+	"articles": [
+		{
+			"source": {
+				"id": null,
+				"name": "YouTube"
+			},
+			"author": null,
+			"title": "FTX and the Centralization Debate - Bloomberg Technology",
+			"description": "Collective Intelligence Project Co-Founder Divya Siddarth joins Caroline Hyde and Ed Ludlow to talk about why she thinks crypto has been focused on the wrong...",
+			"url": "https://www.youtube.com/watch?v=fgoA7Szvne0",
+			"urlToImage": "https://i.ytimg.com/vi/fgoA7Szvne0/maxresdefault.jpg",
+			"publishedAt": "2022-11-30T00:36:28Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "BBC News"
+			},
+			"author": "Sophie Hardach",
+			"title": "The Alpine villages producing their own power - BBC",
+			"description": "Small hydropower plants have long sustained remote communities in the Alps – but there is a growing debate over their environmental impact.",
+			"url": "https://www.bbc.com/future/article/20221129-the-alpine-villages-producing-their-own-power",
+			"urlToImage": "https://ychef.files.bbci.co.uk/live/624x351/p0dkk932.jpg",
+			"publishedAt": "2022-11-30T00:34:17Z",
+			"content": "Globally, that imbalance between the number of small plants and their overall output is similar. Small plants represent an estimated 91% of all hydropower installations, but only make up 11% of hydro… [+4441 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "YouTube"
+			},
+			"author": null,
+			"title": "'Big Short' trader weighs in on recession risks, Elon Musk, Tesla, FTX, weed in Florida - Yahoo Finance",
+			"description": "#BigShort #ElonMusk #tesla Sunburn Cannabis Chairman of the Board and 'Big Short' trader Danny Moses joins Yahoo Finance Live anchors Dave Briggs and Jared B...",
+			"url": "https://www.youtube.com/watch?v=PrKowFw61wQ",
+			"urlToImage": "https://i.ytimg.com/vi/PrKowFw61wQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD0gOyh_MA8=&rs=AOn4CLAQy7b4k3_oUKgI_5o31H5b-TY1sA",
+			"publishedAt": "2022-11-29T23:47:11Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": "news-com-au",
+				"name": "News.com.au"
+			},
+			"author": "Frank Chung",
+			"title": "Price of pub staple set to skyrocket - news.com.au",
+			"description": "<p>Food industry insiders are warning of a chicken shortage in the lead-up to Christmas, with price increases looming for everything from takeaway curries to parmas at the pub.</p>",
+			"url": "https://www.news.com.au/finance/business/manufacturing/chicken-shortage-warning-as-major-breeder-experiences-higher-than-normal-mortality-rate/news-story/73412ddf21a89a915720aa1822d9b32c",
+			"urlToImage": "https://content.api.news/v3/images/bin/ddf100f423225164544b4681494ddae1",
+			"publishedAt": "2022-11-29T23:43:20Z",
+			"content": "Food industry insiders are warning of a chicken shortage in the lead-up to Christmas, with price increases looming for everything from takeaway curries to parmas at the pub.\r\nThe cost of chicken at r… [+4844 chars]"
+		},
+		{
+			"source": {
+				"id": "axios",
+				"name": "Axios"
+			},
+			"author": "Lucinda Shen",
+			"title": "Sam Bankman-Fried talks about failures, FTX, CFTC, regulation and crypto - Axios",
+			"description": "The former CEO tells Axios about what helped lead to FTX's collapse.",
+			"url": "https://www.axios.com/2022/11/29/sam-bankman-fried-100000-ftx-cftc-regulation",
+			"urlToImage": "https://images.axios.com/ZuGNT_JUU81qvExuRx6NtLkvnvY=/1366x768/smart/2022/11/29/1669757632512.jpg",
+			"publishedAt": "2022-11-29T23:32:39Z",
+			"content": "Sam Bankman-Fried had $100,000 left in his bank account last time he checked. In an interview, the former FTX CEO pointed to both personal failures and regulatory gaps to help explain the implosion o… [+2007 chars]"
+		},
+		{
+			"source": {
+				"id": "abc-news-au",
+				"name": "ABC News (AU)"
+			},
+			"author": "Daniel Ziffer, Michael Janda",
+			"title": "Star Entertainment sued by AUSTRAC for alleged money laundering breaches - ABC News",
+			"description": "Star casinos are facing massive fines as the anti-money laundering regulator AUSTRAC launches a Federal Court action seeking civil penalties.",
+			"url": "https://www.abc.net.au/news/2022-11-30/star-entertainment-sued-by-austrac-for-money-laundering-breaches/101714982",
+			"urlToImage": "https://live-production.wcms.abc-cdn.net.au/dddc892d6ad1177e81292c9735f6863e?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+			"publishedAt": "2022-11-29T23:31:53Z",
+			"content": "Star casinos are facing massive fines, with the anti-money laundering regulator AUSTRAC launching a Federal Court action seeking civil penalties.\r\nKey points:\r\n<ul><li>AUSTRAC has launched Federal Co… [+2980 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "1news.co.nz"
+			},
+			"author": null,
+			"title": "NZ's biggest bank hikes mortgage rates after latest OCR rise - 1News",
+			"description": "ANZ's new fixed home loan rates will come into effect from tomorrow, however it isn't all bad news.",
+			"url": "https://www.1news.co.nz/2022/11/29/nzs-biggest-bank-hikes-mortgage-rates-after-latest-ocr-rise/",
+			"urlToImage": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/1NCtK1nPFuI1cNFjXG39PFZ9xoI=/1200x630/filters:format(jpg):quality(70):focal(-5x-5:5x5)/cloudfront-ap-southeast-2.images.arcpublishing.com/tvnz/WROAU47EIZFFBOR3CWJGUJCHAE.jpg",
+			"publishedAt": "2022-11-29T22:33:55Z",
+			"content": "New Zealand's biggest bank has hiked its mortgage rates again, after the latest Official Cash Rate (OCR) rise was announced last week.\r\nOfficial cash rate graphic (Source: 1News)\r\nANZ's announcement … [+2389 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Above the Law"
+			},
+			"author": "Kathryn Rubino",
+			"title": "Cravath Speaketh: Year-End Bonuses Announced! - Above the LawAbove the Law - Above the Law",
+			"description": "Bonus season has really started now!",
+			"url": "https://abovethelaw.com/2022/11/cravath-bonuses-22/",
+			"urlToImage": "https://abovethelaw.com/uploads/2022/04/Biglaw-bonus-money-lawyer-associate-woman-female-cash-raining-1.jpg",
+			"publishedAt": "2022-11-29T22:22:14Z",
+			"content": "Baker McKenzie may have been first on the bonus train this year, but Biglaw insiders *know* bonus season hasn’t really begun till Cravath announces their scale. Well friends, the wait is over.\r\nToday… [+1751 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "RNZ"
+			},
+			"author": "RNZ News",
+			"title": "NZ Post pulls fleet of vehicles after fault found, delivery delays possible - RNZ",
+			"description": "Deliveries in the lead-up to Christmas could be delayed after NZ Post pulls its fleet of electric vehicles.",
+			"url": "https://www.rnz.co.nz/news/national/479785/nz-post-pulls-fleet-of-vehicles-after-fault-found-delivery-delays-possible",
+			"urlToImage": "https://rnz-ressh.cloudinary.com/image/upload/s--JEkksPRp--/t_tohu-badge-facebook/4NIYDWC_image_crop_72260",
+			"publishedAt": "2022-11-29T22:19:26Z",
+			"content": "Paxsters would be back on the streets once they pass a check, NZ Post says. Photo: New Zealand Post\r\nDeliveries in the lead-up to Christmas could be delayed after NZ Post pulls its fleet of electric … [+548 chars]"
+		},
+		{
+			"source": {
+				"id": "reuters",
+				"name": "Reuters"
+			},
+			"author": null,
+			"title": "S&P 500 ends down as Apple dips and traders eye Powell speech - Reuters",
+			"description": "The S&P 500 ended down on Tuesday, with losses in Apple and Amazon ahead of an upcoming speech by U.S. Federal Reserve Chair Jerome Powell that could provide hints about magnitude of future interest rate hikes.",
+			"url": "https://www.reuters.com/markets/us/futures-edge-higher-boost-growth-stocks-hopes-looser-china-covid-curbs-2022-11-29/",
+			"urlToImage": "https://www.reuters.com/resizer/Z5T0J4uD_RqM6adQkcV-360R19s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R7I7FB6MP5LAFPIK6N5IJ45PKM.jpg",
+			"publishedAt": "2022-11-29T22:18:00Z",
+			"content": "Nov 29 (Reuters) - The S&amp;P 500 ended down on Tuesday, with losses in Apple and Amazon ahead of an upcoming speech by U.S. Federal Reserve Chair Jerome Powell that could provide hints about magnit… [+3029 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "OilPrice.com"
+			},
+			"author": "Julianne Geiger",
+			"title": "Oil Prices Jump On Major Crude Draw - OilPrice.com",
+			"description": "U.S. Energy Security Advisor Amos Hochstein said on Tuesday that the White House would look to refill the nation's Strategic Petroleum Reserves when oil prices were \"consistently\" at $70 per barrel",
+			"url": "https://oilprice.com/Latest-Energy-News/World-News/White-House-Changes-Plan-To-Refill-SPR-At-70-Per-Barrel.html",
+			"urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2022-11-29_rgnrzhl0pv.jpg",
+			"publishedAt": "2022-11-29T21:54:00Z",
+			"content": "A Scottish company has been…\r\nSolar stocks are once again…\r\nBy Julianne Geiger - Nov 29, 2022, 2:00 PM CSTU.S. Energy Security Advisor Amos Hochstein said on Tuesday that the White House would look t… [+1726 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CP24 Toronto's Breaking News"
+			},
+			"author": "Alex Arsenych",
+			"title": "How much are real estate prices going to drop in the GTA? - CP24",
+			"description": "The average price of a house is forecasted to drop in the Greater Toronto Area (GTA) next year.",
+			"url": "https://www.cp24.com/news/this-is-how-much-the-average-price-of-a-gta-home-is-expected-to-drop-next-year-1.6173733",
+			"urlToImage": "https://www.cp24.com/polopoly_fs/1.5649571.1635893215!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+			"publishedAt": "2022-11-29T21:39:29Z",
+			"content": "The average price of a house is forecasted to drop by nearly 12 per cent in the Greater Toronto Area (GTA) next year.\r\nAccording to Re/Max Canadas housing market outlook for 2023, the GTAs currently … [+2715 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Investing.com"
+			},
+			"author": "Reuters",
+			"title": "S&P 500 ends down as Apple dips and traders eye Powell speech By Reuters - Investing.com",
+			"description": "S&P 500 ends down as Apple dips and traders eye Powell speech",
+			"url": "https://www.investing.com/news/stock-market-news/futures-edge-higher-on-boost-from-growth-stocks-hopes-of-looser-china-covid-curbs-2953613",
+			"urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPED550LJ-ORUBS_L.jpg",
+			"publishedAt": "2022-11-29T21:26:00Z",
+			"content": "By Shreyashi Sanyal and Noel Randewich\r\n(Reuters) - The S&amp;P 500 ended down on Tuesday, with losses in Apple (NASDAQ:AAPL) and Amazon (NASDAQ:AMZN) ahead of an upcoming speech by U.S. Federal Rese… [+2688 chars]"
+		},
+		{
+			"source": {
+				"id": "financial-times",
+				"name": "Financial Times"
+			},
+			"author": "George Steer, Kate Duguid",
+			"title": "Wall Street stocks edge lower ahead of Powell remarks and jobs report - Financial Times",
+			"description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+			"url": "https://www.ft.com/content/e7df8b1e-77f8-451c-95d8-9795c4abab9f",
+			"urlToImage": null,
+			"publishedAt": "2022-11-29T21:18:51Z",
+			"content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1494 chars]"
+		},
+		{
+			"source": {
+				"id": "cbs-news",
+				"name": "CBS News"
+			},
+			"author": "Lily Rose",
+			"title": "Shop this Cyber Monday refrigerator deal while you still can: Save $1,500 on a Samsung smart refrigerator - CBS News",
+			"description": "Time is running out to save $1,500 on a top-rated Samsung refrigerator.",
+			"url": "https://www.cbsnews.com/essentials/shop-this-cyber-monday-refrigerator-deal-while-you-still-can-2022-11-29/",
+			"urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/25/f3e82f95-1620-469a-b133-5a5c35b3b259/thumbnail/1200x630/97ad2df3cef7eec8c549c04db87df131/5-best-samsung-fridges.jpg",
+			"publishedAt": "2022-11-29T21:14:00Z",
+			"content": "Samsung\r\nCyber Monday is over but you can still score a Samsung smart 4-door Flex refrigerator with Family Hub for $1,500 off. \r\nThe smart refrigerator has a 4.6-star rating and tons of positive revi… [+26607 chars]"
+		},
+		{
+			"source": {
+				"id": "news-com-au",
+				"name": "News.com.au"
+			},
+			"author": null,
+			"title": "Major bank’s warning ahead of Christmas - news.com.au",
+			"description": "<p>One of the big banks is warning Australians to be extra careful of scams in the lead up to the silly season, after this year&rsquo;s Black Friday sales went crazy. </p>",
+			"url": "https://www.news.com.au/technology/online/hacking/aussies-warned-of-scams-ahead-of-christmas/news-story/847ea19bceee6b18b812a7c8ceda40dc",
+			"urlToImage": "https://content.api.news/v3/images/bin/2639841ee703fdf32f1a617c0fe568e2",
+			"publishedAt": "2022-11-29T21:10:21Z",
+			"content": "One of the big banks is warning Australians to be extra careful of scams in the lead up to the silly season, after this year’s Black Friday sales went crazy. \r\nWestpac said over the sale weekend, the… [+2350 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Yahoo Entertainment"
+			},
+			"author": "Dani Romero",
+			"title": "Stock market news live updates: Stocks edge lower amid China COVID concerns, economic data - Yahoo Finance",
+			"description": "U.S. stocks edged lower Tuesday as Wall Street continued a sluggish start to the week, with investors continuing to monitor China's covid policy and brace...",
+			"url": "https://finance.yahoo.com/news/stock-market-news-live-updates-november-29-2022-130033575.html",
+			"urlToImage": "https://s.yimg.com/ny/api/res/1.2/jqVhcSXQtJ3Vx1ptuFOGbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTI-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/5e7a46f0-6fe1-11ed-af6e-f6bfc5b6a126",
+			"publishedAt": "2022-11-29T21:09:49Z",
+			"content": "U.S. stocks edged lower Tuesday as Wall Street continued a sluggish start to the week, with investors continuing to monitor China's COVID policy and look ahead for Federal Reserve Chair Jerome Powell… [+4369 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CarScoops"
+			},
+			"author": "Michael Gauthier",
+			"title": "These Are The Longest Lasting Cars That Will Take You Over 200k Miles - CarScoops",
+			"description": "A new study found numerous Toyota vehicles can easily last more than 200,000 miles.",
+			"url": "https://www.carscoops.com/2022/11/want-a-vehicle-that-will-go-the-distance-these-models-are-still-going-strong-after-200k-miles/",
+			"urlToImage": "https://www.carscoops.com/wp-content/uploads/2022/11/High-Mileage.jpg",
+			"publishedAt": "2022-11-29T21:02:32Z",
+			"content": "With soaring transaction prices and sky high interest rates, many drivers want a vehicle that can go the distance.\r\nWith that in mind, iSeeCars has released a new study that examines which models hav… [+2724 chars]"
+		},
+		{
+			"source": {
+				"id": "news-com-au",
+				"name": "News.com.au"
+			},
+			"author": "Claudia Poposki",
+			"title": "Woolies introduces new checkouts - news.com.au",
+			"description": "<p>A major Aussie supermarket is making queues a thing of the past with its introduction of new registers.</p>",
+			"url": "https://www.news.com.au/lifestyle/food/woolworths-introduces-scango-checkouts-at-select-stores/news-story/a8444b3190a20427880b92595f7bc851",
+			"urlToImage": "https://content.api.news/v3/images/bin/e493255592868823fd227ebabca7dcc9",
+			"publishedAt": "2022-11-29T20:55:29Z",
+			"content": "A major Aussie supermarket is making queues a thing of the past with its introduction of new registers.\r\nWoolworths customers have started to spot Scan&amp;Go terminals in stores. While they are only… [+1148 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Rivals row over deal of failed energy firm Bulb - BBC",
+			"description": "Octopus Energy's acquisition of collapsed energy firm Bulb could be delayed by a legal fight.",
+			"url": "https://www.bbc.co.uk/news/business-63800602",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C08B/production/_127419294_gettyimages-1399527195.jpg",
+			"publishedAt": "2022-11-29T20:52:50Z",
+			"content": "Octopus Energy's acquisition of collapsed supplier Bulb could face further delays after rival firms challenged the deal in court.\r\nBulb, which had about 1.6 million customers, collapsed last year whe… [+2672 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Hollywood Reporter"
+			},
+			"author": "Georg Szalai",
+			"title": "AMC Networks to Undergo Layoffs As CEO Exits and Streaming Can’t Offset Linear TV Decline - Hollywood Reporter",
+			"description": "Shortly after AMC Networks CEO Christina Spade abruptly stepped down after less than three months in the role, the company’s chairman, James Dolan, sent a memo to staff on Nov. 29 forecasting “large-scale layoff as well as cuts to every operating area.” “It w…",
+			"url": "https://www.hollywoodreporter.com/business/business-news/amc-networks-ceo-exit-stock-analysts-1235271197/",
+			"urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2021/05/TWD_1022_JS_1107_2601_RT-EMBED-2021.jpg?w=1024",
+			"publishedAt": "2022-11-29T20:49:23Z",
+			"content": "Shortly after AMC Networks CEO Christina Spade abruptly stepped down after less than three months in the role, the company’s chairman, James Dolan, sent a memo to staff on Nov. 29 forecasting “large-… [+5218 chars]"
+		},
+		{
+			"source": {
+				"id": "reuters",
+				"name": "Reuters"
+			},
+			"author": null,
+			"title": "Spotify, Epic Games get ally in Musk in fight against Apple fees - Reuters",
+			"description": "Elon Musk's declaration of war on Apple <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> in a series of tweets on Monday gives Spotify and Fortnite maker Epic Games a powerful ally in taking the tech giant to task over its 30% A…",
+			"url": "https://www.reuters.com/technology/spotify-epic-games-get-ally-musk-fight-against-apple-fees-2022-11-29/",
+			"urlToImage": "https://www.reuters.com/resizer/heDMpJVlGpHGn9FqnqR2OYW6ors=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2LDA7LF7SBJQNNU65MO3YXD3KI.jpg",
+			"publishedAt": "2022-11-29T20:49:00Z",
+			"content": "LONDON, Nov 29 (Reuters) - Elon Musk's declaration of war on Apple (AAPL.O) in a series of tweets on Monday gives Spotify and Fortnite maker Epic Games a powerful ally in taking the tech giant to tas… [+2884 chars]"
+		},
+		{
+			"source": {
+				"id": "financial-post",
+				"name": "Financial Post"
+			},
+			"author": "Stephanie Hughes",
+			"title": "Royal Bank of Canada to buy HSBC Bank Canada for $13.5 billion - Financial Post",
+			"description": "The Royal Bank of Canada said on Tuesday that it will acquire HSBC Canada for an all-cash transaction of $13.5 billion. Find out more.",
+			"url": "https://financialpost.com/fp-finance/banking/royal-bank-of-canada-buy-hsbc-canada",
+			"urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/10/no1025hsbc.jpg",
+			"publishedAt": "2022-11-29T20:48:45Z",
+			"content": "Deal is expected to close by late 2023 \r\nHSBC Holdings PLC signage outside a bank branch in the financial district of Toronto.Photo by Brent Lewin/Bloomberg files\r\nArticle content\r\nRoyal Bank of Cana… [+6412 chars]"
+		},
+		{
+			"source": {
+				"id": "usa-today",
+				"name": "USA Today"
+			},
+			"author": "Janelle Randazza, Anthony Palliparambil, Jr. and Sarah Kovac, USA TODAY",
+			"title": "The best Cyber Monday deals you can still get under $100, $50 and $25 - USA TODAY",
+			"description": "You can still get these Cyber Monday 2022 sale items from Our Place, All Birds, Amazon and more. The best part? They're all under $100.",
+			"url": "https://www.usatoday.com/story/money/reviewed/2022/11/29/cyber-monday-2022-best-deals-under-100/10793402002/",
+			"urlToImage": "https://www.gannett-cdn.com/presto/2022/11/28/USAT/e08f0b3c-4128-40d1-b387-c8ae7441a80a-Under-100-Deals-Gap-Kids-Hydroflask-Food-52_HERO.png?auto=webp&crop=2987,1680,x12,y0&format=pjpg&width=1200",
+			"publishedAt": "2022-11-29T20:43:36Z",
+			"content": "— Recommendations are independently chosen by Reviewed's editors. Purchases made through the links below may earn us and our publishing partners a commission.\r\nCyber Monday has come and gone, but the… [+5098 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "ZDNet"
+			},
+			"author": "Allison Murray",
+			"title": "The 16 best Cyber Monday deals 2022 under $30 still available - ZDNet",
+			"description": "If you missed Black Friday, these Cyber Monday deals under $30 are still available and include super affordable tech gifts perfect for anyone on your list this holiday season.",
+			"url": "https://www.zdnet.com/home-and-office/cyber-monday-deals-under-30-still-available-november-29-2022/",
+			"urlToImage": "https://www.zdnet.com/a/img/resize/592fa533611f34f52c9b87d8b026698ec7d95487/2022/11/17/be4f43eb-74ff-4f97-98c0-0be7210eefb1/roku-streaming-stick-4k.jpg?auto=webp&fit=crop&height=675&width=1200",
+			"publishedAt": "2022-11-29T20:34:29Z",
+			"content": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other … [+1152 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Mirror Online"
+			},
+			"author": "Graham Hiscott",
+			"title": "Royal Mail offers managers 'obscene' bonuses up to £30k each to enforce brutal job cuts - The Mirror",
+			"description": "Documents seen by the Daily Mirror reveal how the privatised postal giant is preparing to dish out perks to managers who are being tasked with overseeing large-scale redundancies and shift changes",
+			"url": "https://www.mirror.co.uk/news/uk-news/royal-mail-offers-managers-obscene-28613421",
+			"urlToImage": "https://i2-prod.mirror.co.uk/incoming/article28613635.ece/ALTERNATES/s1200/1_Royal-Mail-postal-workers-launch-48-hour-strike.jpg",
+			"publishedAt": "2022-11-29T20:33:46Z",
+			"content": "Royal Mail has been branded obscene for offering managers bonuses of up to £30,000 to help deliver a brutal wave of job cuts. \r\nDocuments seen by the Mirror reveal the privatised postal giant is prep… [+1650 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CarScoops"
+			},
+			"author": "Sebastien Bell",
+			"title": "Aston Martin’s Latest Product Is A Four-Story Home In Tokyo - CarScoops",
+			"description": "Featuring a gym, a wine cellar, and an automotive gallery, the home is located in one of Tokyo's fanciest neighborhoods.",
+			"url": "https://www.carscoops.com/2022/11/aston-martins-latest-product-is-a-four-story-home-in-tokyo/",
+			"urlToImage": "https://www.carscoops.com/wp-content/uploads/2022/11/2022-Aston-Martin-No-001-Minami-Aoyama-12.jpg",
+			"publishedAt": "2022-11-29T20:32:45Z",
+			"content": "Aston Martin has revealed the design of No. 001 Minami Aoyama, a private home that it has styled in concert with VIBROA, a Japanese concierge service.\r\nThe home is located in Omotesando, Minami Aoyam… [+2174 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Newshub"
+			},
+			"author": null,
+			"title": "Most Kiwis will see forecasted 22 percent drop in house prices as a 'relief', ANZ economist says - Newshub",
+			"description": "New Zealand's biggest bank has forecast house prices will drop by a total of 22 percent from their peak.",
+			"url": "https://www.newshub.co.nz/home/money/2022/11/most-kiwis-will-see-forecasted-22-percent-drop-in-house-prices-as-a-relief-anz-economist-says.html",
+			"urlToImage": "https://www.newshub.co.nz/home/money/2022/11/most-kiwis-will-see-forecasted-22-percent-drop-in-house-prices-as-a-relief-anz-economist-says/_jcr_content/par/video/image.dynimg.1280.q75.jpg/v1669753600239/am-show-sharon-zollner-anz-1120.jpg",
+			"publishedAt": "2022-11-29T20:26:46Z",
+			"content": "Zollner said the country was already halfway through the forecast with houses down 12 percent - but prices were still at \"silly levels\".\r\nBut the forecast was \"even more encouraging\" when it was adju… [+551 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Ctvnews.ca"
+			},
+			"author": null,
+			"title": "Bank of Canada sees historic $522M loss in 3rd quarter - CTV News",
+			"description": "The Bank of Canada lost $522 million in the third quarter of this year, marking the first loss in its 87-year history. In the central bank's latest quarterly financial report, it says revenue from interest on its assets did not keep pace with interest charges…",
+			"url": "https://www.ctvnews.ca/business/bank-of-canada-lost-522-million-in-third-quarter-marking-first-loss-in-its-history-1.6173608",
+			"urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/3/2/bank-of-canada-1-5802316-1646233611635.jpg",
+			"publishedAt": "2022-11-29T20:19:00Z",
+			"content": "OTTAWA - \r\nThe Bank of Canada lost $522 million in the third quarter of this year, marking the first loss in its 87-year history.\r\nIn the central bank's latest quarterly financial report, it says rev… [+1563 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Yahoo Entertainment"
+			},
+			"author": "Brian Sozzi",
+			"title": "Apple could have 2 non-China problems on its hands in 2023: Analyst - Yahoo Finance",
+			"description": "Apple could have a few other problems on its hands in 2023 besides an uncertain manufacturing situation in China, acknowledges one Wall Street Apple bull.",
+			"url": "https://finance.yahoo.com/news/apple-could-have-2-non-china-problems-on-its-hands-in-2023-analyst-201205949.html",
+			"urlToImage": "https://s.yimg.com/ny/api/res/1.2/pBHqTYFuNuadMq4NmiLkQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/d86b0f40-7021-11ed-bef6-560512704cc9",
+			"publishedAt": "2022-11-29T20:12:05Z",
+			"content": "Apple (AAPL) could have a few other problems on its hands in 2023 besides an uncertain manufacturing situation in China, according to one Apple bull on the Street.\r\n\"I think there are two main issues… [+2699 chars]"
+		},
+		{
+			"source": {
+				"id": "cnn",
+				"name": "CNN"
+			},
+			"author": "Nathaniel Meyersohn",
+			"title": "There's a big problem with the Kroger-Albertsons supermarket merger - CNN",
+			"description": "When Christine Martinez found out last month that Kroger and Albertsons planned to merge in a deal worth nearly $25 billion, she thought, \"here we go again.\"",
+			"url": "https://www.cnn.com/2022/11/29/business/kroger-albertsons-merger-ftc-antitrust/index.html",
+			"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221129113127-albertsons-store-1014-restricted.jpg?c=16x9&q=w_800,c_fill",
+			"publishedAt": "2022-11-29T20:11:00Z",
+			"content": "When Christine Martinez found out last month that Kroger and Albertsons planned to merge in a deal worth nearly $25 billion, she thought, here we go again.\r\nMartinez lost her job as a pharmacy techni… [+6335 chars]"
+		},
+		{
+			"source": {
+				"id": "financial-times",
+				"name": "Financial Times"
+			},
+			"author": "Owen Walker, Stephen Morris, George Parker",
+			"title": "UK ready to relax ringfencing rules on some banks - Financial Times",
+			"description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+			"url": "https://www.ft.com/content/3eec485a-e42a-4ded-af11-f67e0563b8b7",
+			"urlToImage": null,
+			"publishedAt": "2022-11-29T20:08:20Z",
+			"content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1496 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Electrek"
+			},
+			"author": "Fred Lambert",
+			"title": "Tesla still owns US EV market but is losing market share, shows new data - Electrek.co",
+			"description": "S&P Global Mobility released new EV sale data that show Tesla still owns the US EV market, but it is losing market shares.",
+			"url": "https://electrek.co/2022/11/29/tesla-owns-us-ev-market-but-losing-market-shares-data/",
+			"urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/12/Tesla-all-casrs-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+			"publishedAt": "2022-11-29T20:04:00Z",
+			"content": "S&amp;P Global Mobility released new EV sale data that shows Tesla still owns the US EV market, but it is losing market share.\r\nBut when you had close to 100% of the market, theres only one way to go… [+3117 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CNBC"
+			},
+			"author": "Nicolas Vega",
+			"title": "Billionaire Elon Musk prefers caffeine-free Diet Coke over the original—here's why - CNBC",
+			"description": "In a tweet posted early Monday morning, the 51-year-old Twitter CEO shared a photo of his bedside table which featured four cans of caffeine-free Diet Coke.",
+			"url": "https://www.cnbc.com/2022/11/29/elon-musk-prefers-caffeine-free-diet-coke-over-the-original.html",
+			"urlToImage": "https://image.cnbcfm.com/api/v1/image/106836977-1612792099253-gettyimages-1211442310-wm2_6890_2020030953941364.jpeg?v=1669751897&w=1920&h=1080",
+			"publishedAt": "2022-11-29T19:58:17Z",
+			"content": "Elon Musk may have an $180 billion fortune, but one of his favorite drinks costs less than $1 a pop.\r\nIn a tweet posted early Monday morning, the 51-year-old Twitter CEO shared a photo of his bedside… [+1614 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "PRNewswire"
+			},
+			"author": null,
+			"title": "Trend Micro Supports AWS Open Standards-Based Security Data Lake - PR Newswire",
+			"description": "/PRNewswire/ -- Trend Micro Incorporated (TYO: 4704; TSE: 4704), a global cybersecurity leader, is a launch partner of an innovative new security data lake...",
+			"url": "https://www.prnewswire.com/news-releases/trend-micro-supports-aws-open-standards-based-security-data-lake-301689415.html",
+			"urlToImage": "https://mma.prnewswire.com/media/1958033/MicrosoftTeams_image.jpg?p=facebook",
+			"publishedAt": "2022-11-29T19:51:00Z",
+			"content": "Organizations benefit from direct access to their own data and threat insights\r\nDALLAS, Nov. 29, 2022 /PRNewswire/ -- Trend Micro Incorporated (TYO: 4704; TSE: 4704), a global cybersecurity leader, i… [+3519 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Kitco NEWS"
+			},
+			"author": "http://www.facebook.com/kitconews",
+			"title": "Ethereum is a 'con', will eventually 'blow up' like FTX as Bitcoin becomes primary global form of money - Kitco NEWS",
+			"description": "",
+			"url": "https://www.kitco.com/news/2022-11-29/Ethereum-is-a-con-will-eventually-blow-up-like-FTX-as-Bitcoin-becomes-primary-global-form-of-money.html",
+			"urlToImage": "https://www.kitco.com/news/2022-11-29/images/Cory-Klippsten.jpg",
+			"publishedAt": "2022-11-29T19:41:00Z",
+			"content": "(Kitco News) - In the long-run, Bitcoin will become the world's primary form of money, replacing the U.S. dollar and other fiat currencies, and beating out altcoins, according to Cory Klippsten, CEO … [+4239 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "WLWT Cincinnati"
+			},
+			"author": null,
+			"title": "Cyber Monday deals extended. Sales on Amazon, mattresses and more - WLWT Cincinnati",
+			"description": "Cyber Monday has turned into Cyber Week for many of the nation's largest retailers, many extending Black Friday deals into a weeklong savings extravaganza.",
+			"url": "https://www.wlwt.com/article/cyber-monday-2022-deals-extended/42096985",
+			"urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/extended-1669743638.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+			"publishedAt": "2022-11-29T19:39:00Z",
+			"content": "Cyber Monday deals are still going on.\r\nMajor brands and retailers have extended the holiday weekend sales into Giving Tuesday, and a few deals are extending even into the next month. \r\nWe have compi… [+5297 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CNBC"
+			},
+			"author": "Kate Dore, CFP®",
+			"title": "It's been a volatile year for the market: These are the key things to know before rebalancing your portfolio - CNBC",
+			"description": "After a volatile year for the stock and bond markets, it may be time to rebalance your portfolio. Here's what to consider before making changes.",
+			"url": "https://www.cnbc.com/2022/11/29/what-to-know-before-rebalancing-your-investment-portfolio.html",
+			"urlToImage": "https://image.cnbcfm.com/api/v1/image/107096047-1659099611916-GettyImages-1317105370.jpg?v=1669750636&w=1920&h=1080",
+			"publishedAt": "2022-11-29T19:37:16Z",
+			"content": "After a volatile year for the stock and bond markets, it may be time to rebalance your portfolio by shifting assets back to match your original goals, according to experts.  \r\nAs of Nov. 28, the S&am… [+2841 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Ctvnews.ca"
+			},
+			"author": null,
+			"title": "Majority of U.S. owners of Canadian real estate bought after ban - CTV News",
+			"description": "A new report from Royal LePage shows 75 per cent of U.S. citizens living in border towns and owning recreational properties in Canada made their purchase after the federal government announced its forthcoming foreign buyer ban.",
+			"url": "https://www.ctvnews.ca/business/75-per-cent-of-u-s-owners-of-cdn-rec-properties-bought-after-foreign-buyer-ban-survey-1.6173534",
+			"urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/11/29/homeowner-1-6173538-1669750406610.jpg",
+			"publishedAt": "2022-11-29T19:34:00Z",
+			"content": "TORONTO - \r\nA new report from Royal LePage shows 75 per cent of U.S. citizens living in border towns and owning recreational properties in Canada made their purchase after the federal government anno… [+1014 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "The Guardian"
+			},
+			"author": "Patrick Wintour",
+			"title": "Germany agrees 15-year liquid gas supply deal with Qatar - The Guardian",
+			"description": "Racing to wean itself off Russian gas supplies, Germany is set to buy 2m tonnes of liquid gas from Gulf state",
+			"url": "https://www.theguardian.com/world/2022/nov/29/germany-agrees-15-year-liquid-gas-supply-deal-with-qatar",
+			"urlToImage": "https://i.guim.co.uk/img/media/480a269d81f79b55aadaee3ceec3b1669487c561/139_1_3051_1832/master/3051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ece38cf49da39604268717532e3dbfa6",
+			"publishedAt": "2022-11-29T19:33:00Z",
+			"content": "German firms have signed a 15-year deal to buy 2m tonnes of liquid gas from Qatar, sending out mixed signals over the priority Germany places on human rights in the Gulf and its commitment to a carbo… [+2583 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Motley Fool Australia"
+			},
+			"author": null,
+			"title": "5 things to watch on the ASX 200 on Wednesday - The Motley Fool Australia",
+			"description": "Collins Foods Ltd (ASX:CKF) and Whitehaven Coal Ltd (ASX:WHC) shares will be on watch on the ASX 200 on Wednesday...",
+			"url": "https://www.fool.com.au/2022/11/30/5-things-to-watch-on-the-asx-200-on-wednesday-142/",
+			"urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/04/Wheelchair-watching-stocks.jpg",
+			"publishedAt": "2022-11-29T19:28:06Z",
+			"content": "On Tuesday, the S&amp;P/ASX 200 Index (ASX: XJO) was back on form and charged higher. The benchmark index rose 0.3% to 7,253.3 points.\r\nWill the market be able to build on this on Wednesday? Here are… [+2049 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Telegraph.co.uk"
+			},
+			"author": null,
+			"title": "Hinkley Point nuclear plant faces risk of 11-year delay - The Telegraph",
+			"description": "Flagship project may not be ready until 2036, new contract suggests",
+			"url": "https://www.telegraph.co.uk/business/2022/11/29/hinkley-point-nuclear-plant-faces-risk-11-year-delay/",
+			"urlToImage": "https://www.telegraph.co.uk/content/dam/business/2022/11/29/TELEMMGLPICT000316105668_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay",
+			"publishedAt": "2022-11-29T19:14:00Z",
+			"content": "Britain's flagship Hinkley Point C nuclear power station is facing the risk of an 11-year delay, piling further pressure on efforts to keep the lights on.\r\nAccording to a new contract between the Gov… [+4657 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "North Shore News"
+			},
+			"author": "Mina Kerr-Lazenby, Local Journalism Initiative Reporter",
+			"title": "Horseshoe Bay’s EV charging port leaves car with $6K damage - North Shore News",
+			"description": "A number of people have had their cars towed after attempting to charge it at this faulty charging port.",
+			"url": "https://www.nsnews.com/local-news/horseshoe-bay-ev-charging-damages-6169112",
+			"urlToImage": "https://www.vmcdn.ca/f/files/richmondnews/images/stock-images/electric-vehicle-charging.jpg;w=1200;h=800;mode=crop",
+			"publishedAt": "2022-11-29T19:05:00Z",
+			"content": "A BC Hydro electric vehicle charging station in Horseshoe Bay has damaged at least two cars, with one woman facing over $6,000 in repairs.\r\nOn Thursday afternoon, two cars that had been plugged in to… [+3057 chars]"
+		},
+		{
+			"source": {
+				"id": "abc-news-au",
+				"name": "ABC News (AU)"
+			},
+			"author": "Kate Leaver",
+			"title": "How does ordering an 'extra hot' coffee change its flavour? - ABC News",
+			"description": "Does ordering your coffee extra hot actually change the flavour? Baristas weigh in on the ideal temperature for your brew.",
+			"url": "https://www.abc.net.au/everyday/ordering-extra-hot-coffee-does-it-change-flavour/101708102",
+			"urlToImage": "https://live-production.wcms.abc-cdn.net.au/073e3170436b36f2d2e53516d67ed90e?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=289&width=862&height=485",
+			"publishedAt": "2022-11-29T19:00:00Z",
+			"content": "Coffee is an extremely personal morning ritual and these days there's a plethora of options to customise your order.\r\nWhether it's almond milk, oat milk or coconut milk  we all want our morning brew … [+6301 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Fox Business"
+			},
+			"author": "Julia Musto",
+			"title": "United Furniture sued after firing 2,700 workers by text message before Thanksgiving - Fox Business",
+			"description": "United Furniture Industries is being sued after the company laid off around 2,700 employees at locations across the country via emails and text messages.",
+			"url": "https://www.foxbusiness.com/lifestyle/united-furniture-sued-after-firing-2700-workers-text-messages-before-thanksgiving",
+			"urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/11/0/0/Sofa.jpg?ve=1&tl=1",
+			"publishedAt": "2022-11-29T18:52:42Z",
+			"content": "United Furniture Industries is being sued after laying off approximately 2,700 employees via emails and text messages.\r\nThe plaintiff – a former employee of eight years who court documents say is rep… [+2922 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CNBC"
+			},
+			"author": "Michelle Fox",
+			"title": "This is the moment when you should sell some shares, says Josh Brown - CNBC",
+			"description": "When the VIX hits a key level, it's time to shed some shares, according to Ritholtz Wealth Management CEO Josh Brown.",
+			"url": "https://www.cnbc.com/2022/11/29/this-is-the-moment-when-you-should-sell-some-shares-says-josh-brown.html",
+			"urlToImage": "https://image.cnbcfm.com/api/v1/image/107105524-IMG_2585r.jpg?v=1669747598&w=1920&h=1080",
+			"publishedAt": "2022-11-29T18:46:38Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Livemint"
+			},
+			"author": "Agencies",
+			"title": "NDTV founders Prannoy Roy and Radhika Roy resign from RRPRH board | Mint - Mint",
+			"description": "Pronnoy Roy and Radhika Roy have resigned from the board of RRPRH, a promoter entity of NDTV",
+			"url": "https://www.livemint.com/companies/news/founders-prannoy-roy-and-radhika-roy-resign-from-ndtv-board-11669746663871.html",
+			"urlToImage": "https://images.livemint.com/img/2022/11/29/600x338/Radhika_roy_pronnoy_Roy_1669747794110_1669747816948_1669747816948.webp",
+			"publishedAt": "2022-11-29T18:40:25Z",
+			"content": "New Delhi Television Ltd founders Prannoy Roy and Radhika Roy have resigned as directors of promoter group vehicle RRPRH with immediate effect, the company said in a regulatory filing. NDTV had said … [+1558 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "The Sydney Morning Herald"
+			},
+			"author": "Simone Fox Koob",
+			"title": "‘An absolute mess’: Ubank apologises for app issues blocking people from their accounts - Sydney Morning Herald",
+			"description": "Angry customers have flooded the social media pages of NAB’s digital offshoot with complaints about a lack of access to its banking platform during overseas travel, and poor customer service.",
+			"url": "https://www.smh.com.au/business/banking-and-finance/an-absolute-mess-ubank-apologises-for-app-issues-blocking-people-from-their-accounts-20221128-p5c1we.html",
+			"urlToImage": "https://static.ffx.io/images/$zoom_0.9819%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/d88bef2deb7a504e4d5e539c3438b3074e31bfaf",
+			"publishedAt": "2022-11-29T18:35:00Z",
+			"content": "A ubank spokeswoman said that the company was aware of an issue over the weekend that temporarily prevented a number of customers from accessing its app while overseas.\r\nWe would like to apologise fo… [+2290 chars]"
+		},
+		{
+			"source": {
+				"id": "financial-times",
+				"name": "Financial Times"
+			},
+			"author": "Sarah Provan, Akila Quinio, Steff Chávez, Oliver Ralph, William Langley, Mark Wembridge",
+			"title": "Live news: US prioritises air defence, energy equipment for Ukraine ahead of winter - Financial Times",
+			"description": "",
+			"url": "https://www.ft.com/content/84a6c52a-821b-483a-a37d-501b3b4cf5f9",
+			"urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc8b0cad9-54ac-467e-8833-b04bf137c8c9.jpg?source=next-opengraph&fit=scale-down&width=900",
+			"publishedAt": "2022-11-29T18:33:56Z",
+			"content": "UK mortgage approvals have dropped to their lowest level since Covid-19 first struck two years ago as borrowing rates soared to an eight-year high. \r\nApprovals for house purchases fell more than expe… [+1476 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Fox Business"
+			},
+			"author": "Megan Henney",
+			"title": "Stock market could plunge another 24% next year, Bank of America warns - Fox Business",
+			"description": "Bank of America analysts said this week the S&P 500 could plunge as much as 24% next year as a result of the Federal Reserve's quantitative tightening.",
+			"url": "https://www.foxbusiness.com/markets/stock-market-plunge-next-year-bank-of-america-warns",
+			"urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/11/0/0/1stox-1.jpg?ve=1&tl=1",
+			"publishedAt": "2022-11-29T18:33:13Z",
+			"content": "The stock market\r\n is not out of the woods yet and could face further volatility next year as a result of the Federal Reserve's quantitative tightening, according to Bank of America strategists. \r\nIn… [+2746 chars]"
+		},
+		{
+			"source": {
+				"id": "business-insider",
+				"name": "Business Insider"
+			},
+			"author": "Aaron Mok",
+			"title": "Facebook exec said employee complained about company toilet taper - Business Insider",
+			"description": "David Marcus tweeted the anecdote on the same day that Twitter CEO Elon Musk told employees they'd be fired if they didn't work \"extremely hardcore.\"",
+			"url": "https://www.businessinsider.com/facebook-meta-exec-said-employee-complained-about-company-toilet-taper-2022-11",
+			"urlToImage": "https://i.insider.com/63863c138ac94b0019bad3da?width=1200&format=jpeg",
+			"publishedAt": "2022-11-29T18:32:54Z",
+			"content": "Some tech employees may be seeing fewer office perks soon.\r\nDavid Marcus, a former Facebook and PayPal executive, alluded to that in a tweet on November 16. He said an employee once complained about … [+2753 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Telegraph.co.uk"
+			},
+			"author": null,
+			"title": "Train strikes: December and January dates, and the train companies affected - The Telegraph",
+			"description": "Passengers' travel plans over Christmas will be hit by eight days of strikes as well as a ban on members working overtime",
+			"url": "https://www.telegraph.co.uk/business/2022/11/29/trains-strikes-december-dates-rmt-news-refund/",
+			"urlToImage": "https://www.telegraph.co.uk/content/dam/business/2022/11/29/TELEMMGLPICT000317542351_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay",
+			"publishedAt": "2022-11-29T18:29:26Z",
+			"content": "Train passengers have been hit with another wave of 48-hour strikes in the run up to Christmas.\r\nRail union leaders have extinguished hopes of calling off planned walkouts, after intensive talks fail… [+5855 chars]"
+		},
+		{
+			"source": {
+				"id": "ars-technica",
+				"name": "Ars Technica"
+			},
+			"author": "Ron Amadeo",
+			"title": "Influencers were paid by Google to promote a Pixel phone they never used - Ars Technica",
+			"description": "The FTC says Google paid radio DJs to say they loved the Pixel 4.",
+			"url": "https://arstechnica.com/gadgets/2022/11/influencers-were-paid-by-google-to-promote-a-pixel-phone-theyd-never-used/",
+			"urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/Pixel-4-7-760x380.jpg",
+			"publishedAt": "2022-11-29T18:23:37Z",
+			"content": "62 with 0 posters participating\r\nGoogle and iHeartMediathe US's biggest radio station operatorare being hit with a false advertising lawsuit for ads they ran about the Pixel 4 (which we found to be o… [+2227 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "The Sydney Morning Herald"
+			},
+			"author": "John Collett",
+			"title": "New year, new rates? RBA uncertainty keeps mortgage holders on edge - Sydney Morning Herald",
+			"description": "The Reserve Bank of Australia is keeping its options open on future rate rises, leaving hard-pressed mortgage holders on tenterhooks.",
+			"url": "https://www.smh.com.au/money/borrowing/new-year-new-rates-rba-uncertainty-keeps-mortgage-holders-on-edge-20221125-p5c1cv.html",
+			"urlToImage": "https://static.ffx.io/images/$zoom_0.2579%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_2/t_crop_custom/q_86%2Cf_auto/t_smh_analysis_no_age_social_wm/a24b4ac527bd19d8135428c4e29f7883692fddc1",
+			"publishedAt": "2022-11-29T18:15:00Z",
+			"content": "ANZ economists are forecasting higher-than-anticipated wages will make inflation a bit stickier than otherwise would have been the case. They are forecasting more increases in the cash rate before hi… [+2414 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Forbes"
+			},
+			"author": "Jane Sung",
+			"title": "Best Late Cyber Monday Sales 2022 - Forbes",
+			"description": "We’ve rounded up late Cyber Monday deals to shop before they expire. Find some of the best discounts of the year from top retailers in every category.",
+			"url": "https://www.forbes.com/sites/forbes-personal-shopper/2022/11/29/cyber-monday-sales/",
+			"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63863932467cbbb540db977c/0x0.jpg?format=jpg&width=1200",
+			"publishedAt": "2022-11-29T18:13:44Z",
+			"content": "Good news to those who waited: Many after-Cyber-Monday deals can be found right now, if you hurry. At midnight tonight, most of the best Cyber Monday deals will expire, leaving you stuck paying full … [+16391 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "1news.co.nz"
+			},
+			"author": null,
+			"title": "Poppy seeds mistakenly sold to the public recalled - 1News",
+			"description": "The imported seeds contain higher levels of alkaloids and have been sold at a range of ethnic supermarkets, produce stores and retail outlets.",
+			"url": "https://www.1news.co.nz/2022/11/29/poppy-seeds-mistakenly-sold-to-the-public-recalled/",
+			"urlToImage": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/YOsbRCDmu1rj9QcmCri3a_3GugQ=/1200x630/filters:format(jpg):quality(70):focal(663x628:673x638)/cloudfront-ap-southeast-2.images.arcpublishing.com/tvnz/N53SXG7TBVE67D4SPAP2L4NJEM.jpg",
+			"publishedAt": "2022-11-29T18:11:57Z",
+			"content": "Poppy seeds used in the manufacture of a range of foods have been recalled due to its higher level of alkaloids.\r\nPoppy seeds (file image). (Source: istock.com)\r\nThe imported product was sold by Davi… [+1524 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Yahoo Entertainment"
+			},
+			"author": "Meghan Potkins",
+			"title": "Suncor opts to keep its Petro-Canada gas stations in rebuff to activist investor - Yahoo Canada Finance",
+			"description": "But it says it will 'improve and optimize' Petro-Canada",
+			"url": "https://ca.finance.yahoo.com/news/suncor-opts-keep-petro-canada-123939821.html",
+			"urlToImage": "https://media.zenfs.com/en/financial_post_articles_610/039cfda888865f6949b02872caf8eaf3",
+			"publishedAt": "2022-11-29T18:11:07Z",
+			"content": "gas prices and carbon tax\r\nSuncor Energy Inc. has announced it wont sell off its Petro-Canada gas stations following a strategic review of its downstream retail business, ending months of speculation… [+4731 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "The Sydney Morning Herald"
+			},
+			"author": "John Collett",
+			"title": "Cut-price Teslas: Salary packaging of electric vehicles set to surge - Sydney Morning Herald",
+			"description": "A change in the tax treatment of electric vehicles and hybrids is expected to see many more employees salary package low emission cars.",
+			"url": "https://www.smh.com.au/money/planning-and-budgeting/cut-price-teslas-salary-packaging-of-electric-vehicles-set-to-surge-20221128-p5c1xq.html",
+			"urlToImage": "https://static.ffx.io/images/$zoom_0.239%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_204/t_crop_custom/q_86%2Cf_auto/t_smh_analysis_no_age_social_wm/cdf9fee34d3b9342831f7f632e48d20eb380d2a7",
+			"publishedAt": "2022-11-29T18:10:00Z",
+			"content": "A legislated change to the way electric vehicles are taxed will likely see many employees considering salary packaging the climate-friendly automobiles through a novated lease.\r\nWhile there are tax a… [+1772 chars]"
+		},
+		{
+			"source": {
+				"id": "the-wall-street-journal",
+				"name": "The Wall Street Journal"
+			},
+			"author": "Vipal Monga, Josh Mitchell",
+			"title": "RBC Bets on Immigration in $10.1 Billion HSBC Canada Deal - The Wall Street Journal",
+			"description": "Royal Bank of Canada seeks to shore up its domestic competition and tap into affluent international clientele",
+			"url": "https://www.wsj.com/articles/royal-bank-of-canada-set-to-buy-hsbc-bank-canada-for-10-billion-11669723789",
+			"urlToImage": "https://images.wsj.net/im-675192/social",
+			"publishedAt": "2022-11-29T18:08:00Z",
+			"content": "Royal Bank of Canada said it would pay US$10.1 billion for HSBC Holdings PLCs Canadian operations, a move meant to position Canadas biggest bank to expand during an expected immigration surge.\r\nHSBC,… [+233 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Sky.com"
+			},
+			"author": "Ed Conway",
+			"title": "Bank of England governor Andrew Bailey lays bare the behind-the-scenes dysfunction of Liz Truss government - Sky News",
+			"description": "",
+			"url": "https://news.sky.com/story/bank-of-england-governor-andrew-bailey-lays-bare-the-behind-the-scenes-dysfunction-of-liz-truss-government-12758149",
+			"urlToImage": "https://e3.365dm.com/22/07/1600x900/skynews-bailey-mansion_5833206.jpg?20220713131203",
+			"publishedAt": "2022-11-29T18:03:49Z",
+			"content": "The degree of behind-the-scenes dysfunction in government ahead of September's mini-budget has come into clearer focus as the Bank of England governor described a near total breakdown in communicatio… [+2045 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "The Sydney Morning Herald"
+			},
+			"author": "Tawar Razaghi",
+			"title": "‘Worst of both worlds’: Mortgage affordability toughest since 1990s - Sydney Morning Herald",
+			"description": "Property price falls to date pale in comparison to rapidly rising mortgage rates when it comes to measuring housing affordability – and some locations are tougher than others.",
+			"url": "https://www.smh.com.au/property/news/worst-of-both-worlds-mortgage-affordability-toughest-since-1990s-20221124-p5c0xm.html",
+			"urlToImage": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_42/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/9435e8a9e4eb9fbe656ad36af969eaeefff22738",
+			"publishedAt": "2022-11-29T18:00:00Z",
+			"content": "The modelling is based on median capital city house prices, the average combined after-tax income for a heterosexual couple, a 10 per cent house deposit and the average discount variable rate.\r\nBetaS… [+3160 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Livemint"
+			},
+			"author": "Leslie D'Monte",
+			"title": "‘India is the largest core R&D hub for SAP Labs globally’ | Mint - Mint",
+			"description": "In an interview, Gangadharan spoke about her role at SAP Labs India, how it complements SAP’s global R&D hubs, the role of artificial intelligence (AI), and her thoughts on women in tech and work-from-home, among other issues.",
+			"url": "https://www.livemint.com/companies/news/india-is-the-largest-core-r-d-hub-for-sap-labs-globally-11669744207674.html",
+			"urlToImage": "https://images.livemint.com/img/2022/11/29/600x338/Sindhu_Gangadharan_1669744364110_1669744379213_1669744379213.jpeg",
+			"publishedAt": "2022-11-29T17:55:21Z",
+			"content": "Sindhu Gangadharan, managing director of SAP Labs India and senior vice president of User Enablement at SAP, is the first woman to lead SAP Labs India. The latter is the second-largest SAP developmen… [+6913 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Yahoo Entertainment"
+			},
+			"author": "Pras Subramanian",
+			"title": "Lordstown stock higher as first deliveries begin - Yahoo Finance",
+			"description": "Lordstown Motors, the embattled EV truck maker, finally has some good news to share with the automotive world — and investors.\nThe company’s long-awaited EV ...",
+			"url": "https://finance.yahoo.com/news/lordstown-stock-higher-as-first-deliveries-begin-175401044.html",
+			"urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/5668bfd0-700b-11ed-b7f9-30e4488ca9bb",
+			"publishedAt": "2022-11-29T17:54:01Z",
+			"content": "Lordstown Motors (RIDE), the embattled EV truck maker, finally has some good news to share with the automotive world, and investors.\r\nThe companys long-awaited EV pickup, the Endurance, has achieved … [+2820 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "YouTube"
+			},
+			"author": null,
+			"title": "WATCH: Stock picks - Amazon & Life Healthcare - Business Day TV",
+			"description": "Nick Crail from FNB Wealth & Investments chose Amazon as his stock pick of the day and Shane Watkins drom All Weather Capital chose Life Healthcare",
+			"url": "https://www.youtube.com/watch?v=e9SJLZNmJr8",
+			"urlToImage": "https://i.ytimg.com/vi/e9SJLZNmJr8/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGF4gXiheMA8=&rs=AOn4CLBfKGgAOio7323qnIwNL8BCPHonQw",
+			"publishedAt": "2022-11-29T17:44:04Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": "cnn",
+				"name": "CNN"
+			},
+			"author": "Catherine Thorbecke",
+			"title": "Snap demands employees work in office 80% of the time starting early next year - CNN",
+			"description": "Snapchat's parent company is asking workers to return to the office 80% of the time, or the equivalent of four days a week, beginning early next year, in the latest sign of tech employees receiving less flexibility nearly three years after the pandemic took h…",
+			"url": "https://www.cnn.com/2022/11/29/tech/snapchat-remote-work-policy-change/index.html",
+			"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221129093612-03-snapchat-app-stock.jpg?c=16x9&q=w_800,c_fill",
+			"publishedAt": "2022-11-29T17:41:00Z",
+			"content": "Snapchats parent company is asking workers to return to the office 80% of the time, or the equivalent of four days a week, beginning early next year, in the latest sign of tech employees receiving le… [+1801 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Livemint"
+			},
+			"author": "Harsha Jethmalani",
+			"title": "Cement cos walk on a tightrope | Mint - Mint",
+			"description": "Q2 is a seasonally weak quarter for cement companies as construction activities are slow. Accordingly, price realization was subdued in Q2",
+			"url": "https://www.livemint.com/market/mark-to-market/cement-cos-walk-on-a-tightrope-11669743450301.html",
+			"urlToImage": "https://images.livemint.com/img/2022/11/29/600x338/2b419b6e-700c-11ed-8875-1f8e191d7421_1669743444965.jpg",
+			"publishedAt": "2022-11-29T17:37:29Z",
+			"content": "The September quarter (Q2FY23) earnings of cement makers were expected to be muted, and that has played out. In any case, Q2 is a seasonally weak quarter for cement companies as construction activiti… [+3544 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Livemint"
+			},
+			"author": "Priyanka Gawande",
+			"title": "Will use two-track approach on ESG: Sebi Chief | Mint - Mint",
+			"description": "While emphasizing on the need for such an approach, Sebi chief Madhabi Puri Buch said the first track will include the large entities in our ecosystem who are desirous of getting foreign capital must align with global standards.",
+			"url": "https://www.livemint.com/companies/news/will-use-two-track-approach-on-esg-sebi-chief-11669743085986.html",
+			"urlToImage": "https://images.livemint.com/img/2022/11/29/600x338/LXEYM7C6_1664582080187_1669743196714_1669743196714.jpg",
+			"publishedAt": "2022-11-29T17:34:06Z",
+			"content": "MUMBAI : Madhabi Puri Buch, chairperson of the Securities and Exchange Board of India (Sebi) on Tuesday said the market regulator aims to use a two-track approach on Environmental Social and Governan… [+1891 chars]"
+		},
+		{
+			"source": {
+				"id": "techcrunch",
+				"name": "TechCrunch"
+			},
+			"author": "Frederic Lardinois",
+			"title": "AWS launches DataZone, a new ML-based data management service - TechCrunch",
+			"description": "AWS today launched DataZone, a new ML-based tool that makes it easier for enterprises to build out data catalogs and govern this data.",
+			"url": "https://techcrunch.com/2022/11/29/aws-launches-datazone-a-new-ml-based-data-management-service/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/data-zone-2.jpeg",
+			"publishedAt": "2022-11-29T17:32:01Z",
+			"content": "At its re:Invent conference, AWS today announced Amazon DataZone, a new data management service that can help enterprises catalog, discover, share and — most importantly — govern their data. The nift… [+1699 chars]"
+		},
+		{
+			"source": {
+				"id": "cnn",
+				"name": "CNN"
+			},
+			"author": "Alicia Wallace",
+			"title": "US consumer confidence falls to lowest level since July - CNN",
+			"description": "US consumer confidence fell in November as inflation and economic uncertainty continued to loom large and potentially dampen holiday shopping plans.",
+			"url": "https://www.cnn.com/2022/11/29/economy/consumer-confidence-index-november/index.html",
+			"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221128125456-us-consumer-confidence-november-restricted.jpg?c=16x9&q=w_800,c_fill",
+			"publishedAt": "2022-11-29T17:22:00Z",
+			"content": "MinneapolisCNN Business\r\n  — \r\nUS consumer confidence fellin November as inflation and economic uncertainty continued to loom large and potentially dampen holiday shopping plans.\r\nThe Conference Boar… [+3972 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Adp.com"
+			},
+			"author": null,
+			"title": "5 Tips for Efficient Internal Communications - ADP",
+			"description": "Developing efficient internal communication strategies often falls to HR. Here's a closer look at best practices for crafting a strong communications plan.",
+			"url": "https://www.adp.com/spark/articles/2022/11/5-tips-for-efficient-internal-communications.aspx",
+			"urlToImage": "https://www.adp.com/-/media/adp/blog/articles/featuredimages/8/6/866362_5-tips-for-efficient-internal-communications.jpg?rev=b64eca0b84034e35b22501e03e00325d&hash=8DBEB2857766CFD6AC164ECEC12846B5",
+			"publishedAt": "2022-11-29T17:19:25Z",
+			"content": "HR professionals are often charged with running point on certain internal communications and change management initiatives. Here are five tactics to help you form an efficient internal communications… [+6039 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Mit.edu"
+			},
+			"author": null,
+			"title": "7 ways to advance blockchain in the enterprise - MIT Sloan News",
+			"description": "Blockchain adoption hinges on finding the right use cases, creating a strategy and focus, and galvanizing staff.",
+			"url": "http://mitsloan.mit.edu/ideas-made-to-matter/7-ways-to-advance-blockchain-enterprise",
+			"urlToImage": "http://mitsloan.mit.edu/sites/default/files/styles/og_image/public/2022-11/blockchain-buildings.jpg?h=0d9e26e8&itok=UURek8Aj",
+			"publishedAt": "2022-11-29T17:16:27Z",
+			"content": "open share linksclose share links\r\nAs the technological foundation for cryptocurrency, blockchain has been front and center during the volatile ups and downs of the digital currency age. Yet blockcha… [+7230 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "The Guardian"
+			},
+			"author": "Alex Lawson",
+			"title": "Energy suppliers risk failing with taxpayers’ cash onboard, Centrica chief warns - The Guardian",
+			"description": "Chris O’Shea said the government handing energy companies money in advance presents a big risk",
+			"url": "https://www.theguardian.com/environment/2022/nov/29/energy-suppliers-risk-failing-with-taxpayers-cash-onboard-centrica-chief-warns",
+			"urlToImage": "https://i.guim.co.uk/img/media/b177aa27817558017b144bd485e2c9dca2f11e09/0_576_8640_5184/master/8640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20600bdf5ed1c8b511fe9574c2e390f0",
+			"publishedAt": "2022-11-29T17:09:00Z",
+			"content": "The chief executive of British Gas owner Centrica has warned that more energy suppliers could go bust this winter with million of pounds of taxpayer cash on their balance sheets.\r\nChris OShea said he… [+3862 chars]"
+		},
+		{
+			"source": {
+				"id": "business-insider",
+				"name": "Business Insider"
+			},
+			"author": "Brian Evans",
+			"title": "Jeremy Siegel says recession is 'virtually 100%' if Fed hikes next year - Markets Insider",
+			"description": "\"But I think they're going to pivot once they see the weakness in the data come through,\" Siegel told CNBC.",
+			"url": "https://markets.businessinsider.com/news/stocks/recession-outlook-jeremy-siegel-fed-rate-hikes-fomc-2023-inflation-2022-11",
+			"urlToImage": "https://i.insider.com/638631dbbf36eb001910e117?width=1200&format=jpeg",
+			"publishedAt": "2022-11-29T17:07:13Z",
+			"content": "Wharton professor Jeremy Siegel warned that a recession is all but guaranteed if the Federal Reserve keeps tightening monetary policy into next year. \r\nSpeaking with CNBC on Tuesday, he predicted a 5… [+1488 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "CNBC"
+			},
+			"author": "Melissa Repko",
+			"title": "Shopper turnout hit record high over Black Friday weekend, retail trade group says - CNBC",
+			"description": "A record number of holiday shoppers turned out from Thanksgiving Day to Cyber Monday, according to the National Retail Federation.",
+			"url": "https://www.cnbc.com/2022/11/29/shopper-turnout-hit-record-over-black-friday-weekend-trade-group-says.html",
+			"urlToImage": "https://image.cnbcfm.com/api/v1/image/107157101-1669391720980-gettyimages-1245082879-_maz9686.jpeg?v=1669741010&w=1920&h=1080",
+			"publishedAt": "2022-11-29T16:56:50Z",
+			"content": "A record number of holiday shoppers 196.7 million flocked back to stores and hunted for deals from Thanksgiving Day to Cyber Monday, according to a survey by the National Retail Federation, which tra… [+3681 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Moneycontrol"
+			},
+			"author": "Sunil Shankar Matkar",
+			"title": "Trade setup for Wednesday: Top 15 things to know before the opening bell - Moneycontrol",
+			"description": "Based on the open interest future percentage, a short build-up was seen in 69 stocks, including Laurus Labs, ABB India, Shriram Transport Finance, Coal India and Dr Lal PathLabs",
+			"url": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-wednesday-top-15-things-to-know-before-the-opening-bell-14-9622891.html",
+			"urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/11/stock-market-1-770x433.jpg",
+			"publishedAt": "2022-11-29T16:51:55Z",
+			"content": "The market on November 29 ended at a record closing high for yet another session, continuing its northward journey for the sixth straight trading day, tracking positive global cues.\r\nThe BSE Sensex r… [+10313 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Proactive Investors UK"
+			},
+			"author": "",
+			"title": "FTSE 100 extends gains as US markets move higher - Proactive Investors UK",
+			"description": "FTSE 100 closes firmly ahead HSBC sells its Canadian business for $10.1bn Halma falls as UBS downgrades to neutral 4.49pm: FTSE 100 closes in...",
+			"url": "https://www.proactiveinvestors.co.uk/companies/news/999647/ftse-100-extends-gains-as-us-markets-move-higher-999647.html",
+			"urlToImage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzExXC9zaHV0dGVyc3RvY2stNzA3ODUwMDg1XzYzODYzODkyM2ZhMTYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+			"publishedAt": "2022-11-29T16:49:00Z",
+			"content": "<ul><li>FTSE 100 closes firmly ahead</li><li>HSBC sells its Canadian business for $10.1bn</li><li>Halma falls as UBS downgrades to neutral</li></ul>FTSE 100 closed higher on Tuesday and reached level… [+23636 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "U.Today"
+			},
+			"author": null,
+			"title": "Warren Buffett Outperforms Bitcoin - U.Today",
+			"description": "American business magnate Warren Buffett has managed to outperform Bitcoin over the last five years",
+			"url": "https://u.today/warren-buffett-outperforms-bitcoin",
+			"urlToImage": "https://u.today/sites/default/files/styles/twitter/public/2022-11/26540.jpeg",
+			"publishedAt": "2022-11-29T16:45:45Z",
+			"content": "American business magnate Warren Buffett\r\n has managed to outperform Bitcoin, the worlds biggest cryptocurrency, over the last five years. \r\nThe stock of Berkshire Hathaway (BRK) has added 65% during… [+1103 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Yahoo Entertainment"
+			},
+			"author": "Jeff Lagerquist",
+			"title": "Spilled milk: Saputo shares fall as dairy giant attacked by short-seller - Yahoo Canada Finance",
+			"description": "A New York-based activist investors says Saputo has an \"untenable cost structure\" in a \"low to no growth industry.\"",
+			"url": "https://ca.finance.yahoo.com/news/spilled-milk-saputo-shares-fall-dairy-giant-attacked-short-seller-164317147.html",
+			"urlToImage": "https://s.yimg.com/ny/api/res/1.2/Hx6XxBsJ5090l3l76R8vsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05Njk-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/2b74fa20-7004-11ed-bf3f-341b79449d18",
+			"publishedAt": "2022-11-29T16:43:17Z",
+			"content": "A New York-based activist investor says Saputo has an \"untenable cost structure\" in a \"low to no growth industry.\" (GETTY)\r\nShares of Canadian dairy giant Saputo (SAP.TO) fell on Tuesday after an act… [+2644 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "ChronicleLive"
+			},
+			"author": "Zac Sherratt",
+			"title": "Police hunting for wanted Newcastle man Sean Tait appeal to public as search continues - Chronicle Live",
+			"description": "Officers have asked for the public's help as they attempt to track down wanted man Sean Tait after he failed to appear at court",
+			"url": "https://www.chroniclelive.co.uk/news/north-east-news/police-newcastle-wanted-sean-tait-25633239",
+			"urlToImage": "https://i2-prod.chroniclelive.co.uk/incoming/article18667530.ece/ALTERNATES/s1200/0_Tait-SeanJPG.jpg",
+			"publishedAt": "2022-11-29T16:35:02Z",
+			"content": "A wanted Newcastle man is being sought by police.\r\nPolice are asking anyone who might have seen wanted man Sean Tait to get in contact as they continue to hunt for him.\r\n Tait, 34, from Newcastle, fa… [+565 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Mortgage News Daily"
+			},
+			"author": "Matthew Graham",
+			"title": "$726,200 is The New Loan Limit for 2023; High Cost Counties Now Over $1m - Mortgage News Daily",
+			"description": "If you're just here for the conforming loan limit news, $726,200 is the number for 2023.    Does this mean no one can get a mortgage for more than $726,200?  No.  The conforming loan limit is the maximum amount that can be guaranteed by Fannie Mae and Freddie…",
+			"url": "https://www.mortgagenewsdaily.com/news/11292022-conforming-loan-limits-loan-limits-fhfa-case",
+			"urlToImage": "https://a.mortgagenewsdaily.com/dsocial/63863346b024c5c3604b9c33/63863346b024c5c3604b9c33_5c4b7af816260010e483867b_0_2022112916.jpg?provider=facebook",
+			"publishedAt": "2022-11-29T16:32:45Z",
+			"content": "If you're just here for the conforming loan limit news, $726,200 is the number for 2023.  \r\nDoes this mean no one can get a mortgage for more than $726,200?  No.  The conforming loan limit is the max… [+3163 chars]"
+		},
+		{
+			"source": {
+				"id": "cnn",
+				"name": "CNN"
+			},
+			"author": "Paul R. La Monica",
+			"title": "What the heck happened to Salesforce? - CNN",
+			"description": "Tech stocks have taken a nasty tumble this year, but some are doing even worse than others. Exhibit A: software giant Salesforce.",
+			"url": "https://www.cnn.com/2022/11/29/investing/salesforce-stock-earnings/index.html",
+			"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221128142352-salesforce-tower-san-francisco-file.jpg?c=16x9&q=w_800,c_fill",
+			"publishedAt": "2022-11-29T16:23:00Z",
+			"content": "Tech stocks have taken a nasty tumble this year, but some are doing even worse than others. Exhibit A: software giant Salesforce.\r\nShares of Salesforce\r\n(CRM) have plunged about 40% so far in 2022. T… [+2483 chars]"
+		},
+		{
+			"source": {
+				"id": "reuters",
+				"name": "Reuters"
+			},
+			"author": null,
+			"title": "Crypto exchange Bitfront shuts down - Reuters",
+			"description": "Bitfront, a U.S. crypto exchange backed by Japanese social media firm Line Corp, said it has suspended new sign-ups and credit card payments and will cease operations in a few months despite efforts to overcome challenges in the rapidly evolving industry.",
+			"url": "https://www.reuters.com/technology/crypto-exchange-bitfront-shuts-down-2022-11-29/",
+			"urlToImage": "https://www.reuters.com/resizer/-4c6cbQ7CabG-LHwGVTTq--yrTg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BE5Q5YJS3RNQXENCM3WMPXUTKM.jpg",
+			"publishedAt": "2022-11-29T16:22:22Z",
+			"content": "Nov 28 (Reuters) - Bitfront, a U.S. crypto exchange backed by Japanese social media firm Line Corp, said it has suspended new sign-ups and credit card payments and will cease operations in a few mont… [+1193 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "9to5Mac"
+			},
+			"author": "Chance Miller",
+			"title": "Kuo: iPhone 14 Pro demand to ‘disappear’ as Apple misses shipment goal by 20 million units - 9to5Mac",
+			"description": "The supply and production issues plaguing the iPhone 14 Pro and iPhone 14 Pro Max are no secret at this point. A new report from Apple analyst Ming-Chi Kuo today offers additional details on the impact of these shortages, saying that iPhone 14 Pro and iPhone …",
+			"url": "https://9to5mac.com/2022/11/29/iphone-14-pro-demand-delays-disappear/",
+			"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/Screenshot-2022-09-07-at-2.15.04-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+			"publishedAt": "2022-11-29T16:22:00Z",
+			"content": "The supply and production issues plaguing the iPhone 14 Pro and iPhone 14 Pro Max are no secret at this point. A new report from Apple analyst Ming-Chi Kuo today offers additional details on the impa… [+2053 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "The Guardian"
+			},
+			"author": "Kalyeena Makortoff",
+			"title": "HSBC quits Canada, selling its business to RBC for £8.4bn - The Guardian",
+			"description": "London-headquartered bank has been struggling to navigate political pressure from both Beijing and the west",
+			"url": "https://www.theguardian.com/business/2022/nov/29/hsbc-quits-canada-selling-its-business-to-rbc-for-84bn",
+			"urlToImage": "https://i.guim.co.uk/img/media/cfff2acf93f9f058b7f967e2947cc21cfc595224/0_80_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61545edccd52ba205bfb60959eaf3128",
+			"publishedAt": "2022-11-29T16:19:00Z",
+			"content": "HSBC has struck a deal to sell its Canadian business to Royal Bank of Canada for £8.4bn as it continues to shrink its global footprint and focus on the Chinese market.\r\nHSBC, which once advertised it… [+2537 chars]"
+		},
+		{
+			"source": {
+				"id": "the-irish-times",
+				"name": "The Irish Times"
+			},
+			"author": "Ellen O'Riordan",
+			"title": "High Court awards €550000 in exemplary damages against receiver over 'wrongful action' - The Irish Times",
+			"description": "Court entitled to mark disapproval of receiver possessing and selling some properties without court order, judge says",
+			"url": "https://www.irishtimes.com/business/2022/11/29/high-court-awards-550000-in-exemplary-damages-against-receiver-over-wrongful-action/",
+			"urlToImage": "https://www.irishtimes.com/resizer/27bGqPIvoDJ5hAQaiW-rh8bsu58=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/XPO4JZCG3ZG55GNIPVJR4RPGJE.jpg",
+			"publishedAt": "2022-11-29T16:16:51Z",
+			"content": "The High Court has awarded a man 550,000 in damages against a receiver who acted without lawful authority in possessing five properties and selling three without a court order.\r\nMr Justice Anthony Ba… [+2801 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Cybersecuritydive.com"
+			},
+			"author": "Matt Kapko",
+			"title": "Where is AWS in the cybersecurity conversation? - Cybersecurity Dive",
+			"description": "The cloud leader doesn’t emphasize security and share information at the same level as its competitors. Experts say that's by design.",
+			"url": "https://www.cybersecuritydive.com/news/aws-cybersecurity-cloud-market/637467/",
+			"urlToImage": "https://www.cybersecuritydive.com/imgproxy/NtaQ2PmcRD93v_Jghop7znpH7QvV8XFBWa06wWy-HwI/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNTY2OTY5ODEuanBn.jpg",
+			"publishedAt": "2022-11-29T16:15:08Z",
+			"content": "Amazon Web Services is riding high as cloud adoption swells, beating its peers while commanding the enterprise technology industry's attention. But, unlike Microsoft and Google, the cloud giant is no… [+7586 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "MyBroadband"
+			},
+			"author": "https://www.facebook.com/mybroadband",
+			"title": "South Africa’s biggest Black Friday spenders — including a R1.88-million purchase - MyBroadband",
+			"description": "South Africans spent billions on Black Friday, with two shoppers at Nedbank and Standard Bank spending over a million rand each.",
+			"url": "https://mybroadband.co.za/news/black-friday/471873-south-africas-biggest-black-friday-2022-spenders-including-a-r1-88-million-purchase.html",
+			"urlToImage": "https://mybroadband.co.za/news/wp-content/uploads/2022/11/Rand-notes-headline.jpg",
+			"publishedAt": "2022-11-29T16:04:40Z",
+			"content": "Black Friday 2022 again saw single transactions worth hundreds of thousands of rands in South Africa, while at least two customers spent over a million rand in total on the day.\r\nPhysical retailers a… [+4800 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "YouTube"
+			},
+			"author": null,
+			"title": "How will sustained high raw materials prices impact EV batteries? - Fastmarkets",
+			"description": "Muthu Krishna, battery cost modeller at Fastmarkets, discusses the impact of high battery material costs and looks at the potential LFP could offer the marke...",
+			"url": "https://www.youtube.com/watch?v=WaviwY98nZ0",
+			"urlToImage": "https://i.ytimg.com/vi/WaviwY98nZ0/hqdefault.jpg",
+			"publishedAt": "2022-11-29T16:01:45Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Pinkbike.com"
+			},
+			"author": null,
+			"title": "Review: O-Chain's Active Spider Adds Suppleness & Silence - Pinkbike.com",
+			"description": "Elastomers are back, and this time they're in O-Chain's Active Spider.",
+			"url": "https://www.pinkbike.com/news/review-o-chains-active-spider-adds-suppleness-and-silence.html",
+			"urlToImage": "https://ep1.pinkbike.org/p4pb23791152/p4pb23791152.jpg",
+			"publishedAt": "2022-11-29T16:00:00Z",
+			"content": "In a literal sense, the spider rotates counter-clockwise a few degrees, independently of the crank. Small elastomers captured in the housing of the spider allow it to rock back and forth to help isol… [+9212 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "OilPrice.com"
+			},
+			"author": "Michael Kern",
+			"title": "Oil Prices Bounce Back As Sentiment Shifts - OilPrice.com",
+			"description": "Oil prices rebounded on Tuesday as speculation of another OPEC production cut combined with hopes that China would ease its Covid restrictions",
+			"url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Bounce-Back-As-Sentiment-Shifts.html",
+			"urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2022-11-29_exphuconym.jpg",
+			"publishedAt": "2022-11-29T16:00:00Z",
+			"content": "The wind industry has a…\r\nIn a new report, the…\r\nSaudi Aramcos refining unit Luberef…\r\nBy Michael Kern - Nov 29, 2022, 10:00 AM CSTOil prices rebounded on Tuesday morning as speculation of another OP… [+6031 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "New Zealand Herald"
+			},
+			"author": "Tamsyn Parker",
+			"title": "Think mortgage rates are high now? Economist warns of 9.5% peak - New Zealand Herald",
+			"description": "Economist Tony Alexander shares what the big Official Cash Rate hike means for borrowers.",
+			"url": "https://www.nzherald.co.nz/business/continuous-disclosure-think-mortgage-rates-are-high-now-economist-tony-alexander-warns-of-95-peak/ER6QI367RJGKFIFAAQR2RNWL4U/",
+			"urlToImage": "https://www.nzherald.co.nz/resizer/E01qGvXbJJD5tzsGPRkQrAv5Zfw=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/W4DLHZD46RFU3JL7UYD6TSAXRY.jpg",
+			"publishedAt": "2022-11-29T16:00:00Z",
+			"content": "Floating home loan rates could go as high as 9.5 per cent next year. Photo / 123RFThe floating mortgage rate could go as high as 9.5 per cent by mid-way through next year while popular one and two-ye… [+3141 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "New Zealand Herald"
+			},
+			"author": "Ben Leahy",
+			"title": "Home builder Podular goes into liquidation leaving customers fearing the worst - New Zealand Herald",
+			"description": "Customers in tears and feeling physically sick from the stress of dealing with Podular.",
+			"url": "https://www.nzherald.co.nz/nz/home-builder-podular-goes-into-liquidation-leaving-customers-fearing-the-worst/SJBZXV7MNNDWTAWRBLEYRV26Y4/",
+			"urlToImage": "https://www.nzherald.co.nz/resizer/-qIWt0oY4oaDaZuG0-NqsvmwAjo=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/DBRQZYB7JZBCTNYNQPCEQKL5ZM.JPG",
+			"publishedAt": "2022-11-29T16:00:00Z",
+			"content": "Wellington doctors Kathryn Percival and David Pirotta are losing hope they will be able to recover the more than $500,000 they paid for a Marlborough Sounds home that has not been completed. Photo / … [+5103 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "New Zealand Herald"
+			},
+			"author": "Tamsyn Parker",
+			"title": "Sharesies study reveals signs of Kiwis starting to feel economic pinch - New Zealand Herald",
+			"description": "Sharesies research reveals cut backs on food spending.",
+			"url": "https://www.nzherald.co.nz/business/signs-of-kiwis-starting-to-feel-economic-pinch/6PNL62NZZVE6JEEKF7OO6OMC7U/",
+			"urlToImage": "https://www.nzherald.co.nz/resizer/hdHJFYcQp1PqRPPvMo8jVVgFKx8=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/KY2SWROZZZAWZISWLSOGRWGET4.jpg",
+			"publishedAt": "2022-11-29T16:00:00Z",
+			"content": "Kiwis are changing the way they manage their day-to-day expenses as tougher economic conditions bite. Photo / 123RFThere are increasing signs of the tougher economic climate starting to hit Kiwis in … [+4089 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "New Zealand Herald"
+			},
+			"author": "Jenée Tibshraeny",
+			"title": "Reserve Bank not keen to make banks help cover cost of money printing - New Zealand Herald",
+			"description": "RBNZ focused on tackling inflation, not reducing the cost of money printing.",
+			"url": "https://www.nzherald.co.nz/business/reserve-bank-not-keen-to-make-banks-help-cover-cost-of-money-printing/CWR4RGCPMMFRF4XHXHNAZER7HM/",
+			"urlToImage": "https://www.nzherald.co.nz/resizer/7CJ-7rWxua5rgw6ahrrxHNrxh98=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/WZCLBGHFQZGHNIKDHGIJDUUKFU.jpg",
+			"publishedAt": "2022-11-29T16:00:00Z",
+			"content": "Should the Reserve Bank under Adrian Orr pay banks less interest on their reserves? Photo / Mark Mitchell, Herald montageNeither the Government nor the Reserve Bank (RBNZ) want to make banks do more … [+4530 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Business Traveller"
+			},
+			"author": null,
+			"title": "British Airways and American Airlines unveil new home at New York JFK – Business Traveller - Business Traveller",
+			"description": "The new Terminal 8 area has three lounges, including two newly-built lounges…",
+			"url": "https://www.businesstraveller.com/business-travel/2022/11/29/british-airways-and-american-airlines-unveil-new-home-at-new-york-jfk/",
+			"urlToImage": "https://cdn.businesstraveller.com/wp-content/uploads/2022/11/britishairways_4f17ef6608a97.jpg",
+			"publishedAt": "2022-11-29T15:57:48Z",
+			"content": "Operational improvements in Terminal 8 include five new widebody gates, four new widebody parking positions, and an expanded and upgraded baggage handling system that will together support additional… [+287 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Regulatory Focus"
+			},
+			"author": null,
+			"title": "Asia-Pacific Roundup: Singapore's HSA finalizes LDT guideline - Regulatory Focus",
+			"description": "The 22-page guidelines feature examples of test systems that do and do not meet the definition of LDT. HSA does not classify research-use only tests and commercial IVDs that are used off-label or in modified procedures as LDTs. The guideline is informed by fe…",
+			"url": "https://www.raps.org/news-and-articles/news-articles/2022/11/asia-pacific-roundup-singapores-hsa-finalizes-ldt",
+			"urlToImage": "https://www.raps.org/RAPS/media/news-images/recon%20and%20roundups/Asia-Pac-Roundup-300x250-2022.png?ext=.png",
+			"publishedAt": "2022-11-29T15:57:05Z",
+			"content": "Just released! Postmarket Requirements for Medical Devices: a Practical Guide\r\nThis comprehensive resource covers product change evaluation, postmarket surveillance, audit/inspection compliance, and … [+98 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "BBC News"
+			},
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "First Bus South to end all services in Southampton - BBC",
+			"description": "The operator blames changing travel patterns since the coronavirus pandemic and other issues.",
+			"url": "https://www.bbc.com/news/uk-england-hampshire-63797546",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/158D9/production/_127818288_mediaitem127818284.jpg",
+			"publishedAt": "2022-11-29T15:56:05Z",
+			"content": "Southampton's main bus company has announced plans to withdraw all its services in the city.\r\nFirst Bus South said it would close its bus depot and withdraw all of its City Red services from 19 Febru… [+3122 chars]"
+		},
+		{
+			"source": {
+				"id": "techcrunch",
+				"name": "TechCrunch"
+			},
+			"author": "Paul Sawers",
+			"title": "Dropbox acquires Boxcryptor assets to bring zero-knowledge encryption to file storage - TechCrunch",
+			"description": "Dropbox is bringing end-to-end encryption to its file storage service, through acquiring \"key assets\" from cloud security company Boxcryptor.",
+			"url": "https://techcrunch.com/2022/11/29/dropbox-acquires-boxcryptor-assets-to-bring-zero-knowledge-encryption-to-file-storage/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/Boxcryptor-e1669736040737.webp?resize=1200,675",
+			"publishedAt": "2022-11-29T15:46:02Z",
+			"content": "Dropbox has announced plans to bring end-to-end encryption to its business users, and it’s doing so through acquiring “key assets” from Germany-based cloud security company Boxcryptor. Terms of the d… [+2815 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Business Standard"
+			},
+			"author": "Khushboo Tiwari",
+			"title": "NSEL scam: Sebi bans five major commodity brokers for six months - Business Standard",
+			"description": "The brokers had appealed to the Securities Appellate Tribunal SAT against a previous order by Sebi issued in 2019",
+			"url": "https://www.business-standard.com/article/markets/nsel-case-sebi-slaps-six-months-ban-on-five-commodity-brokers-122112901304_1.html",
+			"urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/27/full/1632744285-5147.jpg",
+			"publishedAt": "2022-11-29T15:46:00Z",
+			"content": "The Securities and Exchange Board of India (Sebi) on Tuesday imposed a six-month ban on five brokerages from obtaining fresh registrations as commodity brokers for their involvement in the National S… [+1684 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "YouTube"
+			},
+			"author": null,
+			"title": "MTN Group Invests in Connectivity to Accelerate Innovation in Africa - Light Reading Video",
+			"description": "MTN Group is on a mission to connect everyone across Africa so they can enjoy a \"modern, connected life.\" To that end, the Johannesburg-based telecommunicati...",
+			"url": "https://www.youtube.com/watch?v=TXaXsnShaVk",
+			"urlToImage": "https://i.ytimg.com/vi/TXaXsnShaVk/maxresdefault.jpg",
+			"publishedAt": "2022-11-29T15:45:36Z",
+			"content": null
+		}
+	]
+}

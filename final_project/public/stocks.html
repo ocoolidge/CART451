@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Stonks </title>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+		<link rel="stylesheet" href="css/styles.css">
+		
+	</head>
+
+	<body>
+		<div class = "sideBar" id = "dateSideBar">
+			<ul id = "dateList"></ul>
+		</div>
+		<div id = "apophButton"></div>
+		<h2 class="mainButton" id="articleButton">Articles</h2>
+		<h2 class="mainButton" id="stocksButton">Stonks</h2>
+		<h2 class="mainButton" id="correlationButton">Correlation</h2>
+		<h2 class="mainButton" id="allButton">All</h2>
+
+		<div id = "parentContainer">
+			
+			<div id = "correlationCoef"></div>
+
+			<div id = "articles">
+
+				<div class = "resCrit" id = "resultsContainer">
+					<h2 id = "articleTitle"></h2>
+					<p id = "articleContainer"></p>
+					<h3 id = "articleSourceAndDate"></h3>
+					<img id="articleImage"></img>
+					<h3 id = "titleGood"></h3>
+				</div>
+
+				<div class = "resCrit" id = "resultsContainer2">
+					<h2 id = "articleTitle2"></h2>
+					<p id = "articleContainer2"></p>
+					<h3 id = "articleSourceAndDate2"></h3>
+					<img id="articleImage2"></img>
+					<h3 id = "titleBad"></h3>
+				</div>
+
+			</div>
+
+			<div class = "lower" id = "graphs">
+				<script src = "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
+				<script src = "js/regression.min.js"></script>
+				<canvas id = "alphaIntelCanvas"></canvas>
+				<canvas id = "sentiCanvas"></canvas>
+				<canvas id = "regressionCanvas"></canvas>
+				<canvas id = "aggregatedStocksCanvas"></canvas>
+				<canvas id = "stockPriceCanvas"></canvas>
+			</div>
+
+			<div id = "tfidf"></div>
+			
+		</div>
+	</body>
+	<script src="js/main.js"></script>
+	
+</html>
